@@ -6,7 +6,7 @@
 <a href="https://www.instagram.com/__jenils"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" width="40" /></a>
 
 <h2>Who am I? 👨</h2>
-<img align='right' src="https://github.com/Jenil14/Jenil14/blob/main/Jenil_1.jpg" width="230" />
+<!--img align='right' src="https://github.com/Jenil14/Jenil14/blob/main/Jenil_1.jpg" width="230" /-->
 
   My name describes my qualities.
   
