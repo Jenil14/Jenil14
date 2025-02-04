@@ -20,7 +20,8 @@ A highly motivated and detail-oriented Data Analytics professional with a proven
 
 - 🎓 I recently graduated from Boston University with a Master's in Business Analytics.
 - 🌍 I am currently based in Boston, MA.
-- 😄 I enjoy playing competitive chess, cooking, and learning more about entrepreneurial ventures!
+- 😄 I enjoy playing competitive chess, cooking, and learning more about entrepreneurial
+  ventures!
 
 
 <h2>Languages and Tools</h2>
